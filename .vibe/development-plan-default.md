@@ -150,6 +150,19 @@ Slidev-Präsentation für Entwickler-Kollegen, die zeigt: Team-Alignment bei LLM
 
 *Tasks managed via `bd` CLI*
 
+### Completed (2026-04-15)
+- ✅ harness-configuration-1.6.1 — GitHub Repo `mrsimpson/slides-harness-configuration` erstellt (public)
+- ✅ harness-configuration-1.6.2 — Git initialisiert, `.gitignore` (node_modules, dist, .beads, .playwright-mcp, *.png)
+- ✅ harness-configuration-1.6.3 — `.github/workflows/deploy.yml` kopiert (identisch zu slides-context-is-all-you-need)
+- ✅ harness-configuration-1.6.4 — Initial commit (38 files) und Push zu GitHub main branch
+- ✅ harness-configuration-1.6.5 — GitHub Pages aktiviert (build_type: workflow), Deploy-Run erfolgreich (HTTP 200 ✅)
+
+### Delivery Details
+- **GitHub Repo**: https://github.com/mrsimpson/slides-harness-configuration
+- **GitHub Pages URL**: https://mrsimpson.github.io/slides-harness-configuration/
+- **Deploy**: Automatisch bei Push auf `main` via GitHub Actions (`deploy.yml`)
+- **Delivery-Entscheidung**: `.vibe/` Plan-Datei bewusst eingecheckt (Nachvollziehbarkeit). Screenshots und `.beads/` ausgeschlossen via `.gitignore`.
+
 
 
 ---
