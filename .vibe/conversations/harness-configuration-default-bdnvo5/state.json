@@ -1,0 +1,15 @@
+{
+  "conversationId": "harness-configuration-default-bdnvo5",
+  "projectPath": "/Users/oliverjaegle/projects/deutschebahn/slides/harness-configuration",
+  "gitBranch": "default",
+  "currentPhase": "deliver",
+  "planFilePath": "/Users/oliverjaegle/projects/deutschebahn/slides/harness-configuration/.vibe/development-plan-default.md",
+  "workflowName": "slides",
+  "requireReviewsBeforePhaseTransition": false,
+  "createdAt": "2026-04-14T21:32:05.183Z",
+  "updatedAt": "2026-04-15T10:37:57.422Z",
+  "sessionMetadata": {
+    "referenceId": "ses_272188a48ffedtAmZW7QQX7aQc",
+    "createdAt": "2026-04-14T21:31:58.416Z"
+  }
+}

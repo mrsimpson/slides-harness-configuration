@@ -1,0 +1,39 @@
+{
+  "conversationId": "harness-configuration-default-bdnvo5",
+  "projectPath": "/Users/oliverjaegle/projects/deutschebahn/slides/harness-configuration",
+  "epicId": "harness-configuration-1",
+  "phaseTasks": [
+    {
+      "phaseId": "ideate",
+      "phaseName": "Ideate",
+      "taskId": "harness-configuration-1.1"
+    },
+    {
+      "phaseId": "structure",
+      "phaseName": "Structure",
+      "taskId": "harness-configuration-1.2"
+    },
+    {
+      "phaseId": "draft",
+      "phaseName": "Draft",
+      "taskId": "harness-configuration-1.3"
+    },
+    {
+      "phaseId": "style",
+      "phaseName": "Style",
+      "taskId": "harness-configuration-1.4"
+    },
+    {
+      "phaseId": "review",
+      "phaseName": "Review",
+      "taskId": "harness-configuration-1.5"
+    },
+    {
+      "phaseId": "deliver",
+      "phaseName": "Deliver",
+      "taskId": "harness-configuration-1.6"
+    }
+  ],
+  "createdAt": "2026-04-14T21:32:06.860Z",
+  "updatedAt": "2026-04-14T21:32:06.860Z"
+}
