@@ -1,6 +1,6 @@
 ---
 layout: image-lower-third
-image: /01-title.png
+image: /01-title.svg
 ---
 
 # Harness-Konfiguration teilen

@@ -16,7 +16,7 @@ fonts:
   serif: Inter
   mono: "Fira Code"
 layout: image-lower-third
-image: /01-title.png
+image: /01-title.svg
 css: unocss
 ---
 

@@ -4,4 +4,6 @@ dist/
 *.local
 .beads/
 .playwright-mcp/
-*.png
+# Screenshots (temp review files, not presentation assets)
+review-*.png
+slide-*.png
